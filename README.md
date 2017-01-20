@@ -1,2 +1,2 @@
-# Jekyll - Bootstrap exercise
+# Jekyll-Bootstrap exercise
 
